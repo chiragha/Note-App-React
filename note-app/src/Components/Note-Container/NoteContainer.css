@@ -1,0 +1,24 @@
+.note_container{
+    height: 100%;
+}
+
+h2{
+    color: #fff;
+    margin-bottom: 10px;
+    font-size: 2rem;
+}
+
+.note-container-notes{
+    height: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    overflow-y: scroll;
+   
+}
+
+h3{
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+}
